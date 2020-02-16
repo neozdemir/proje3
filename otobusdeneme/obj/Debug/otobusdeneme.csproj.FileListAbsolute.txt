@@ -1,0 +1,70 @@
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.pdb
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csprojResolveAssemblyReference.cache
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Form1.resources
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Properties.Resources.resources
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csproj.GenerateResource.Cache
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+c:\users\haftaiçi sabah\documents\visual studio 2013\Projects\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+G:\Form\18.02.2015\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+G:\Form\18.02.2015\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+G:\Form\18.02.2015\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Form1.resources
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Properties.Resources.resources
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.yeniform.resources
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Form1.resources
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.satistablo.resources
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.yeniform.resources
+C:\Users\ndirier\Desktop\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Form1.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.kaydol.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.satistablo.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.giris.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\Geliştirilecek Projeler\Form\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\bin\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Form1.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.kaydol.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.giris.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusdeneme\otobusdeneme\obj\Debug\otobusdeneme.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\bin\Debug\otobusdeneme.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\bin\Debug\otobusdeneme.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\bin\Debug\otobusdeneme.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.Form1.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.kaydol.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.giris.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\otobusbiletsatis\otobusdeneme\obj\Debug\otobusdeneme.csproj.GenerateResource.Cache
